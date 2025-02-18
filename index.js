@@ -12,10 +12,10 @@ return true;
 }
 
 if(prime()){
-    console.log("prime");
+    console.log("prime number");
     
 }
 else{
-    console.log("not prime");
+    console.log("not prime number");
     
 }
