@@ -10,6 +10,8 @@ const prime=()=>{
     }
 return true;
 }
+console.log("Hello");
+console.log("radhe Radhe");
 
 if(prime()){
     console.log("prime number");
